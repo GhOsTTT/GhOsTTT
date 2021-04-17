@@ -3,12 +3,14 @@
 - 🌱 currently living in Izmir,
 - 📫 How to reach me:
 
-
-<a target="_blank" href="https://www.instagram.com/gokhan_musapasaoglu//">
-  <img align="left" alt="Gökhan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a target="_blank" href="https://www.linkedin.com/in/gokhanmusapasaoglu/">
   <img align="left" alt="Gökhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a target="_blank" href="https://stackoverflow.com/users/1550887/g%c3%b6khan-musapa%c5%9fao%c4%9flu-%e3%83%85">
+  <img align="left" alt="Gökhan's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/gokhan_musapasaoglu//">
+  <img align="left" alt="Gökhan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/1199991630?si=aI_FyW9aTRShkbeyTny7Fg">
   <img align="left" alt="Gökhan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
